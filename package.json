@@ -1,0 +1,23 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "fqr serve",
+    "build": "fqr build",
+    "clean": "fqr clean"
+  },
+  "keywords": [],
+  "author": "Osman Bineev",
+  "license": "MIT",
+  "devDependencies": {
+    "faqtor": "^0.1.10",
+    "faqtor-of-browser-sync": "0.0.2",
+    "faqtor-of-handlebars": "0.0.1",
+    "faqtor-of-uglify": "0.0.2",
+    "faqtor-of-watch": "^0.1.0",
+    "fqr": "0.0.6",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.3"
+  }
+}

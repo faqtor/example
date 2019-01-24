@@ -1,6 +1,7 @@
 {
   "name": "myapp",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "private": true,
   "description": "",
   "scripts": {
     "start": "fqr serve",
@@ -11,7 +12,7 @@
   "author": "Osman Bineev",
   "license": "MIT",
   "devDependencies": {
-    "faqtor": "^0.1.10",
+    "faqtor": "^0.2.0",
     "faqtor-of-browser-sync": "0.0.2",
     "faqtor-of-handlebars": "0.0.1",
     "faqtor-of-uglify": "0.0.2",

@@ -13,7 +13,7 @@
   "license": "MIT",
   "devDependencies": {
     "faqtor": "^0.2.0",
-    "faqtor-of-browser-sync": "0.0.2",
+    "faqtor-of-browser-sync": "0.0.4",
     "faqtor-of-handlebars": "0.0.1",
     "faqtor-of-uglify": "0.0.2",
     "faqtor-of-watch": "^0.1.0",
